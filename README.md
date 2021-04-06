@@ -1,5 +1,5 @@
 # QtHttpFileServer
-基于Qt的http文件服务器,抄袭https://github.com/188080501/JQTools.git 中的网络，不推荐直接用。
+基于Qt的http文件服务器,抄袭JQHttpServer中的网络，不推荐直接用。
 
 POST 上传文件  localhost:2134/file/upload/dir1/dir2/dir3/filename 没有则创建目录
              
